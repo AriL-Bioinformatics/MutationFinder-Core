@@ -15,7 +15,7 @@ This is a Java based program to find mutation in DNA sequences.
 
 ## Walkthrough
 1. Run main java file 
-2. Input two sequences 
+2. Input two DNA sequences 
 3. Program compares sequences and identifies any mutations 
 4. Results are displayed in the console 
 
